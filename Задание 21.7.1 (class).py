@@ -12,3 +12,4 @@ class Cat:
 
     def getAge(self):
         return self.age
+        
