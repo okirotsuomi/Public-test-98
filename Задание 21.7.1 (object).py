@@ -6,8 +6,6 @@ print('Имя первого кота:', pet1.getName())
 print('Пол первого кота:', pet1.getGender())
 print('Возраст первого кота:', pet1.getAge())
 
-print()
-
 pet2 = Cat('Сэм', 'мальчик', 2)
 
 print('Имя второго кота:', pet2.getName())
